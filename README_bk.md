@@ -27,7 +27,7 @@
 <br>
 
 <p align="center">
- <img  height="200px" src="tenor.gif"
+ <img  height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=Hydr4Online&theme=tokyonight_duo&hide_border=true"
 </p>
 
 
