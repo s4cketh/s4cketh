@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="150" src="<div class="tenor-gif-embed" data-postid="22708749" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/hacker-yes-hacker-yes-gif-22708749">Hacker Yes Hacker GIF</a>from <a href="https://tenor.com/search/hacker+yes-gifs">Hacker Yes GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>"  />
+  <img height="150" src="https://tenor.com/es/view/hacker-yes-hacker-yes-gif-22708749
+    "  />
 </div>
 
 ###
