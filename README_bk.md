@@ -10,8 +10,8 @@
 
 <h3 align="left"> Whoami { </h3>
 
-- 🐱 `My name`: Hydr4.
-- ⚡ `I'm`: 18 years old.
+- 🐱 `My name`: s4cketh.
+- ⚡ `I'm`: 25 years old.
 - 👾 `My Hobbies`: Play CTF and draw.
 - 🏆 `My Purpose`: Become a pentester.
 - 💻 `Favorite lang`: Bash and Python
