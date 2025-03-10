@@ -1,7 +1,5 @@
 <div align="center">
-  <img height="150" src="[![Uploading tenor.gif…]()](https://github.com/s4cketh/s4cketh/blob/main/tenor.gif)
-
-    "  />
+  <img height="150" src="[![Uploading tenor.gif…]()](https://github.com/s4cketh/s4cketh/blob/main/tenor.gif)"
 </div>
 
 ###
