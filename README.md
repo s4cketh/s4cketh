@@ -10,13 +10,13 @@
 
 <picture> <img align="right" src="anime-boy.gif" width = 390px> </picture> <br> <br>
 
-**(kali@root) [ /home/hydr4-z ]** <br>
+**(kali@root) [ /home/s4cketh ]** <br>
 **$ whoami**
 
 {  
 
-* `My name is`: **Hydr4** ,
-* `I'm`: **18 years old** ,
+* `My name is`: **s4cketh** ,
+* `I'm`: **25 years old** ,
 * `I’m currently learning`: **programming & exploit vulnerabilities** ,
 * `I love`: **coffee** ,
 * `Favorite lang`: **python & c++**  
