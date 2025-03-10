@@ -9,11 +9,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">  About Me</h3>
 
 ###
 
-<p align="left">My name is: S4cketh<br><br>- 🔭 I’m: 25 years old<br>- 📚 I’m currently learning: programming & exploit vulnerabilities<br>- ⚡ I love: coffee</p>
+<p align="left">My name is: S4cketh<br><br>-  I’m: 25 years old<br>-  I’m currently learning: programming & exploit vulnerabilities<br>-  I love: coffee</p>
 
 ###
 
