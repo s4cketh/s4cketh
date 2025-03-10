@@ -2,11 +2,6 @@
   <img height="150" src="tenor.gif"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
 
 ###
 
