@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">My name is: S4cketh<br><br>- 🔭 I’m: 25 years old<br>- 📚 I’m currently learning: programming & exploit vulnerabilities<br>- ⚡ In my free time I ...</p>
 
 ###
 
