@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**s4cketh/s4cketh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+(kali@root) [ /home/hydr4-z ]
+$ whoami
+
+{
+
+My name is: s4cketh ,
+I'm: 25 years old ,
+I’m currently learning: programming & exploit vulnerabilities ,
+I love: coffee ,
+Favorite lang: kotlin & c#
+}
+
