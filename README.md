@@ -8,7 +8,7 @@
 
 <hr/>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 390px> </picture> <br> <br>
+<picture> <img align="right" src="anime-boy.gif" width = 390px> </picture> <br> <br>
 
 **(kali@root) [ /home/hydr4-z ]** <br>
 **$ whoami**
