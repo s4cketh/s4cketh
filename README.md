@@ -19,17 +19,6 @@
 * `I'm`: **25 years old** ,
 * `I’m currently learning`: **programming & exploit vulnerabilities** ,
 * `I love`: **coffee** ,
-* `Favorite lang`: **c# & kotlin**  
+* `Favorite lang`: **kotlin & python**  
 
 }
-
-
-
-
-
-
-
-
-
-
-
