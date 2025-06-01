@@ -22,9 +22,9 @@
 * `Favorite lang`: **kotlin & python**  
 
 }
-<p align="center"> 
-## 🛠️ Technologies & Tools
 
+## 🛠️ Technologies & Tools
+<p align="center"> 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
